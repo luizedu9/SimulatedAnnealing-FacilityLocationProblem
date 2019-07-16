@@ -1,6 +1,8 @@
 # SimulatedAnnealing-FacilityLocationProblem
 
-Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga Ciência da Computação
+Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - Campus Formiga
+
+Ciência da Computação
 
 Simulated Annealing para resolução do Problema de Localização de Facilidades para a disciplina de Métodos Heuristicos 
 
